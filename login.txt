@@ -1,4 +1,5 @@
 I have implement login function.
 I have change the background color of the page.
 I have added a component that displays the current time.
-I have changed the background color to white.
+I have chagned the background color to blue.
+
